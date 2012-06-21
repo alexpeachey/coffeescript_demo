@@ -1,7 +1,7 @@
-bundle install
+`bundle install`
 then
-cd latte
+`cd latte`
 then
-middleman
+`middleman`
 or
-middleman server --livereload
+`middleman server --livereload`
